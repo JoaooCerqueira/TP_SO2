@@ -1,0 +1,10 @@
+﻿  server.cpp
+C:\Users\eduar\OneDrive\Ambiente de Trabalho\SO2\server\server\server.cpp(8,34): warning C4474: 'wscanf_s': excesso de argumentos transmitidos para cadeia de caracteres de formato
+C:\Users\eduar\OneDrive\Ambiente de Trabalho\SO2\server\server\server.cpp(8,34): message : espaços reservados e seus parâmetros esperam 1 argumentos variadic, mas 2 foram fornecidos
+C:\Users\eduar\OneDrive\Ambiente de Trabalho\SO2\server\server\server.cpp(20,12): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  sync.cpp
+C:\Users\eduar\OneDrive\Ambiente de Trabalho\SO2\server\server\sync.cpp(187,11): warning C4101: 'ret2': variável local não referenciada
+C:\Users\eduar\OneDrive\Ambiente de Trabalho\SO2\server\server\sync.cpp(186,11): warning C4101: 'nBytes': variável local não referenciada
+  Gerando Código...
+C:\Users\eduar\OneDrive\Ambiente de Trabalho\SO2\server\server\sync.cpp(181): warning C4715: 'namedpipes_sync': nem todos os caminhos de controle retornam um valor
+  server.vcxproj -> C:\Users\eduar\OneDrive\Ambiente de Trabalho\SO2\server\x64\Debug\server.exe

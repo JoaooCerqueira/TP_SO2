@@ -1,0 +1,3 @@
+﻿  game.cpp
+C:\Users\eduar\OneDrive\Ambiente de Trabalho\SO2\monitor\monitor\game.cpp(47,11): warning C4244: 'argumento': conversão de 'double' para 'DWORD', possível perda de dados
+  monitor.vcxproj -> C:\Users\eduar\OneDrive\Ambiente de Trabalho\SO2\monitor\x64\Debug\monitor.exe

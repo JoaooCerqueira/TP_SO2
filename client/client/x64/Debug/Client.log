@@ -1,0 +1,16 @@
+﻿  client.cpp
+C:\Users\eduar\OneDrive\Ambiente de Trabalho\SO2\client\client\client.cpp(82,13): warning C4101: 'wcApp': variável local não referenciada
+C:\Users\eduar\OneDrive\Ambiente de Trabalho\SO2\client\client\client.cpp(240,26): warning C4244: '=': conversão de 'double' para 'DWORD', possível perda de dados
+C:\Users\eduar\OneDrive\Ambiente de Trabalho\SO2\client\client\client.cpp(300,14): warning C4101: 'mmi': variável local não referenciada
+  game.cpp
+C:\Users\eduar\OneDrive\Ambiente de Trabalho\SO2\client\client\game.cpp(7,10): warning C4101: 'nBytes': variável local não referenciada
+C:\Users\eduar\OneDrive\Ambiente de Trabalho\SO2\client\client\game.cpp(8,7): warning C4101: 'ret': variável local não referenciada
+C:\Users\eduar\OneDrive\Ambiente de Trabalho\SO2\client\client\game.cpp(77,69): warning C4267: 'argumento': conversão de 'size_t' para 'DWORD', possível perda de dados
+C:\Users\eduar\OneDrive\Ambiente de Trabalho\SO2\client\client\game.cpp(74,8): warning C4101: 'nBytes': variável local não referenciada
+C:\Users\eduar\OneDrive\Ambiente de Trabalho\SO2\client\client\game.cpp(73,7): warning C4101: 'ret': variável local não referenciada
+C:\Users\eduar\OneDrive\Ambiente de Trabalho\SO2\client\client\game.cpp(90,82): warning C4267: 'argumento': conversão de 'size_t' para 'DWORD', possível perda de dados
+C:\Users\eduar\OneDrive\Ambiente de Trabalho\SO2\client\client\game.cpp(100,70): warning C4267: 'argumento': conversão de 'size_t' para 'DWORD', possível perda de dados
+  init.cpp
+  sync.cpp
+  Gerando Código...
+  Client.vcxproj -> C:\Users\eduar\OneDrive\Ambiente de Trabalho\SO2\client\x64\Debug\client.exe
